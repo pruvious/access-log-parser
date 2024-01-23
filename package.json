@@ -1,0 +1,43 @@
+{
+  "name": "@pruvious/access-log-parser",
+  "private": true,
+  "description": "A simple analytics tool that parses nginx access logs and displays them in the Pruvious dashboard.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruvious/access-log-parser.git"
+  },
+  "author": "Muris Ceman <hello@pruvious.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "pruvious dev",
+    "format": "prettier --write .",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@nuxt/test-utils": "^3.10.0",
+    "@nuxtjs/tailwindcss": "^6.11.0",
+    "@vue/test-utils": "^2.4.3",
+    "@vueuse/core": "^10.7.2",
+    "@vueuse/nuxt": "^10.7.2",
+    "happy-dom": "^13.2.0",
+    "nuxt": "^3.9.3",
+    "prettier": "^3.2.4",
+    "prettier-plugin-organize-attributes": "^1.0.0",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "vitest": "^1.2.1",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@maxmind/geoip2-node": "^5.0.0",
+    "chart.js": "^4.4.1",
+    "date-fns": "^3.2.0",
+    "pruvious": "^3.9.9",
+    "vue-chartjs": "^5.3.0"
+  }
+}

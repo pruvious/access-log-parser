@@ -1,0 +1,8 @@
+1.1.1.1 - - [19/Jan/2024:10:54:19 +0000] "GET /docs HTTP/2.0" 200 877 "https://pruvious.com/docs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+1.1.1.1 - - [19/Jan/2024:10:54:20 +0000] "GET /docs HTTP/2.0" 200 877 "https://pruvious.com/docs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+1.1.1.1 - - [19/Jan/2024:10:54:20 +0000] "GET /tutorial HTTP/2.0" 200 877 "https://pruvious.com/tutorial" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+1.1.1.1 - - [20/Jan/2024:13:34:51 +0000] "GET /api/pages/docs HTTP/2.0" 200 877 "https://pruvious.com/docs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+1.1.1.1 - - [20/Jan/2024:13:34:51 +0000] "GET /docs HTTP/2.0" 200 877 "https://pruvious.com/docs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+1.1.1.1 - - [20/Jan/2024:13:34:51 +0000] "GET /docs HTTP/2.0" 200 877 "https://pruvious.com/docs" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+2.2.2.2 - - [20/Jan/2024:13:34:53 +0000] "GET /api/pages/docs HTTP/2.0" 200 6625 "https://pruvious.com/docs" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+2.2.2.2 - - [20/Jan/2024:13:34:53 +0000] "GET /uploads/image.png HTTP/2.0" 200 34140 "https://pruvious.com/docs" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
